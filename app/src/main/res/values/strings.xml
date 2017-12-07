@@ -2,4 +2,8 @@
     <string name="app_name">PlacarApp</string>
     <string name="label_titulo">Times</string>
     <string name="label_desenvolvido_por">Desenvolvido por José Otávio</string>
+    <string name="placar_inicial">0</string>
+    <string name="btn_gol">GOL</string>
+    <string name="casa">CASA</string>
+    <string name="visitante">VISITANTE</string>
 </resources>
